@@ -1,4 +1,4 @@
-#h1 Steps followed while working on project #h1
+#H1 Steps followed while working on project
 
 
 1.0 Start Python and Check Versions
