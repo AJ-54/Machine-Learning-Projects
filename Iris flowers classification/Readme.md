@@ -1,6 +1,5 @@
 **Steps followed while working on project**
 
-
 1.0 Start Python and Check Versions
 2.0 Load The Data
 2.1 Import libraries
