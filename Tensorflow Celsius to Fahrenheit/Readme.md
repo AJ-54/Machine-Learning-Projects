@@ -1,5 +1,5 @@
 # Implementing Tensorflow 
-=====
+
 
 
 The problem we will solve is to convert from Celsius to Fahrenheit, where the approximate formula is:
